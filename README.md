@@ -1,6 +1,6 @@
 Olá! Sou Rômulo também conhecido como Rog, saiba um pouco sobre mim abaixo.
 
-Aspirante a desenvolvedor back-end em C# (conhecimento básico)
+Desenvolvedor back-end em C# (conhecimento básico)
 
 Estudando*
 - OOP
