@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá!
 
-<!--
-**RogMazarate/RogMazarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirante a desenvolvedor back-end em C# (conhecimento básico)
 
-Here are some ideas to get you started:
+Estudando*
+- OOP
+- Algoritimos
+- Estruturas de dados
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outros*
+
+Cohecimento básico em:
+- HTML e CSS
